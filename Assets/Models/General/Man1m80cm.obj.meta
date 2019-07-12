@@ -3,14 +3,14 @@ guid: c9f58acac5d16f547bb4926fa06218ac
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: body
+    100000: Felicio
     100002: //RootNode
-    400000: body
+    400000: Felicio
     400002: //RootNode
-    2100000: bodyMat
-    2300000: body
-    3300000: body
-    4300000: body
+    2100000: FelicioMat
+    2300000: Felicio
+    3300000: Felicio
+    4300000: Felicio
   externalObjects: {}
   materials:
     importMaterials: 1
