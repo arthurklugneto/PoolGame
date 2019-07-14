@@ -280,3 +280,7 @@ E:\Pool\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 E:\Pool\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 E:\Pool\obj\Debug\Assembly-CSharp.dll
 E:\Pool\obj\Debug\Assembly-CSharp.pdb
+E:\Pool\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
+E:\Pool\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+E:\Pool\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+E:\Pool\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb
